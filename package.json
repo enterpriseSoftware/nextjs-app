@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build && rm -rf ./.next/cache",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint" 
   },
   "dependencies": {
     "@types/node": "18.16.3",
